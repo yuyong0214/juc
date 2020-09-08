@@ -1,4 +1,4 @@
-package com.yong.juc.learn;
+package com.yong.juc.learnlock;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicReference;

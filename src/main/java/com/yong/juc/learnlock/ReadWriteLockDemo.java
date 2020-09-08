@@ -1,4 +1,4 @@
-package com.yong.juc.learn;
+package com.yong.juc.learnlock;
 
 import java.util.HashMap;
 import java.util.Map;

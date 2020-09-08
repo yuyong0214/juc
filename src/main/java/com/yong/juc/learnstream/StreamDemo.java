@@ -1,4 +1,4 @@
-package com.yong.juc.learn;
+package com.yong.juc.learnstream;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

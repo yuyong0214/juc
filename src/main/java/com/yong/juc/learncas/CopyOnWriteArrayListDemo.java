@@ -1,4 +1,4 @@
-package com.yong.juc.learn;
+package com.yong.juc.learncas;
 
 
 import java.util.*;
