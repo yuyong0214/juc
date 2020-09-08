@@ -1,4 +1,4 @@
-package com.yong.juc.learn;
+package com.yong.juc.learnblockingqueue;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;

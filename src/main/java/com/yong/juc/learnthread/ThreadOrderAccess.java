@@ -1,4 +1,4 @@
-package com.yong.juc.learn;
+package com.yong.juc.learnthread;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

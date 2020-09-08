@@ -1,4 +1,4 @@
-package com.yong.juc.learn;
+package com.yong.juc.learnvolatile;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

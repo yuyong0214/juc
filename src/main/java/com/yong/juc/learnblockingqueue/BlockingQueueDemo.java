@@ -1,6 +1,5 @@
-package com.yong.juc.learn;
+package com.yong.juc.learnblockingqueue;
 
-import org.omg.CosNaming.NamingContextExtPackage.StringNameHelper;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;

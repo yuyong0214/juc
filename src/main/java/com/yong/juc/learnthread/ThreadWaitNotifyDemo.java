@@ -1,4 +1,4 @@
-package com.yong.juc.learn;
+package com.yong.juc.learnthread;
 
 class MyNumber {
     int number = 0;

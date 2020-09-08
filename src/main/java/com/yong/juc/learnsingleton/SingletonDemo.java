@@ -1,4 +1,4 @@
-package com.yong.juc.learn;
+package com.yong.juc.learnsingleton;
 
 // 多线程下的单例模式
 public class SingletonDemo {
