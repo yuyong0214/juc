@@ -106,6 +106,21 @@ class Question02 {
     }
 }
 
+// Double check
+class Singleton{
+    private Singleton(){};
+    private volatile static Singleton instance;
+    public static Singleton getInstance(){
+        if (instance == null){
+            synchronized(Singleton.class){
+                if (instance == null){
+                    instance = new Singleton();
+                }
+            }
+        }
+        return instance;
+    }
+}
 
 public class Exam0407 {
     public static void main(String[] args) {
